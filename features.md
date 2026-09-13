@@ -1,1 +1,1 @@
-Attendance Heatmap module 
+Attendance Heatmap - Version B 
